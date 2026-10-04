@@ -4,7 +4,8 @@ void main() {
   int soma = 0;
   int contador = 0;
 
-  while (contador < numero1) {
+  while (contador < numero1)
+  {
     soma += numero2;
     contador++;
   }
